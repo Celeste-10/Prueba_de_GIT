@@ -1,0 +1,13 @@
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\bin\Debug\Prueba de GIT.exe.config
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\bin\Debug\Prueba de GIT.exe
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\bin\Debug\Prueba de GIT.pdb
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba de GIT.csproj.AssemblyReference.cache
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba_de_GIT.Form1.resources
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba_de_GIT.Formularios.FrmPila.resources
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba_de_GIT.Properties.Resources.resources
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba de GIT.csproj.GenerateResource.cache
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba de GIT.csproj.CoreCompileInputs.cache
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba de GIT.exe
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba de GIT.pdb
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba de GIT.exe.config
+C:\Users\Lizbeth\source\repos\Prueba de GIT\Prueba de GIT\obj\Debug\Prueba_de_GIT.Formularios.FrmCola.resources

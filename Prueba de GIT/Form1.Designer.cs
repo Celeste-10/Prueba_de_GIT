@@ -28,34 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.btnPila = new System.Windows.Forms.Button();
+            this.btnCola = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // btnPila
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(36, 39);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(44, 16);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "label1";
+            this.btnPila.Location = new System.Drawing.Point(62, 70);
+            this.btnPila.Name = "btnPila";
+            this.btnPila.Size = new System.Drawing.Size(337, 163);
+            this.btnPila.TabIndex = 0;
+            this.btnPila.Text = "Pila";
+            this.btnPila.UseVisualStyleBackColor = true;
+            this.btnPila.Click += new System.EventHandler(this.btnPila_Click);
+            // 
+            // btnCola
+            // 
+            this.btnCola.Location = new System.Drawing.Point(62, 317);
+            this.btnCola.Name = "btnCola";
+            this.btnCola.Size = new System.Drawing.Size(337, 163);
+            this.btnCola.TabIndex = 1;
+            this.btnCola.Text = "Cola";
+            this.btnCola.UseVisualStyleBackColor = true;
+            this.btnCola.Click += new System.EventHandler(this.btnCola_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(498, 576);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(481, 576);
+            this.Controls.Add(this.btnCola);
+            this.Controls.Add(this.btnPila);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnPila;
+        private System.Windows.Forms.Button btnCola;
     }
 }
 
